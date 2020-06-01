@@ -1,0 +1,46 @@
+/* .App {
+  display: flex;
+  height: 50vh;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+.App h1 {
+  color: #333;
+  cursor: default;
+}
+
+.App .button {
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.2);
+  width: 10vw;
+  height: 05vh;
+  border-radius: 0.3vw;
+  box-shadow: 0 0 0.4vw 0.1vw rgba(0, 0, 0, 0.2);
+}
+
+.App .button .light {
+  display: flex;
+  justify-content: center;
+  width: 05vw;
+  height: 05vh;
+}
+
+.App .button .light :nth-child(1) {
+  align-self: center;
+}
+
+.App .button .dark {
+  display: flex;
+  justify-content: center;
+  height: 05vh;
+  width: 05vw;
+}
+
+.App .button .dark :nth-child(1) {
+  align-self: center;
+} */
